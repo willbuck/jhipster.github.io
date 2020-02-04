@@ -16,7 +16,7 @@ A JHipster blueprint is a Yeoman generator that is [composed](http://yeoman.io/a
 
 JHipster blueprints are listed on the [JHipster marketplace]({{ site.url }}/modules/marketplace/) with the `jhipster-blueprint` label.
 
-This allows to create third-party blueprints that can override a specific part of JHipster, say for example only the client side templates.
+This allows developers to create third-party blueprints that can override a specific part of JHipster, say for example only the client side templates.
 
 ## Using a blueprint
 
